@@ -131,6 +131,8 @@ The low-fidelity prototype follows a **minimal black-and-white visual style** �
 The design provides students with a simple way to **track attendance, view daily records, analyze attendance reports, and access their profile information**.
 
 
+---
+
 ### 🌷 Developed By 🌷
 
 
