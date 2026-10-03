@@ -12,7 +12,7 @@ https://www.figma.com/proto/4MqT3gXlTngqSq8wvDVJUa/Student-Attendance-Low-fedili
 
 
 
-# 🎓 Student Attendance Management System – Low-Fidelity Design
+# 🎓 Student Attendance Management System – Low-Fedility Design
 
 The **Student Attendance Management System** is a simple mobile application designed to help students **track, manage, and view their attendance** easily. The low-fidelity design uses a **black-and-white interface** with simple icons, clear text, and minimal visual elements.
 
@@ -129,5 +129,20 @@ The low-fidelity prototype follows a **minimal black-and-white visual style** �
 🎓 **Login → 🏠 Dashboard → 📅 Attendance → 📊 Report → 👤 Profile**
 
 The design provides students with a simple way to **track attendance, view daily records, analyze attendance reports, and access their profile information**.
+
+
+### 🌷 Developed By 🌷
+
+
+👩‍💻 **Name:** M. Sudhapriya
+
+
+🎓 **Course:** I BCA
+
+
+🏫 **College:** Kamaraj College
+
+
+💙 **Project:** Attendance Management System Low Fedility📚✨
 
 
